@@ -27,10 +27,10 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    title: 'Vinyasa Builder',
+    description: "This is a Yoga Routine building app incorporating a custom seeded database using React, JavaScript, Node.js, and MongoDB.  Utilizing npm package React Beautiful DND (drag and drop), a user can reorganize their routine with just the drag of the mouse.  RESTful designed.",
     image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    tags: ['React', 'JavaScript', 'Node.js', 'MongoDB'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 3,
