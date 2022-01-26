@@ -29,10 +29,10 @@ export const projects = [
   {
     title: 'Vinyasa Builder',
     description: "This is a Yoga Routine building app incorporating a custom seeded database using React, JavaScript, Node.js, and MongoDB.  Utilizing npm package React Beautiful DND (drag and drop), a user can reorganize their routine with just the drag of the mouse.  RESTful designed.",
-    image: '/images/4.jpg',
+    image: '/images/vinyasa.png',
     tags: ['React', 'JavaScript', 'Node.js', 'MongoDB'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://vinyasabuilder.herokuapp.com/',
     id: 3,
   },
 ];
