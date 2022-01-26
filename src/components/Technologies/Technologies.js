@@ -34,7 +34,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>Experience with <br />
-          Figma
+          Figma and Miro
           </ListParagraph>
         </ListContainer>
       </ListItem>
