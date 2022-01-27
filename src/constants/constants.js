@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/telluride.png',
       tags: ['JavaScript', 'HTML', 'Canvas', 'CSS'],
     source: 'https://github.com/harrdev/Telluride-Master',
-    visit: 'https://harrdev.com',
+    visit: 'https://telluride.harrdev.com',
     id: 0,
   },
   {
