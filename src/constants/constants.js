@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/skywalker.png',
     tags: ['JavaScript', 'Node', 'Express', 'EJS', 'Postgres'],
     source: 'https://github.com/harrdev/Skywalker-Academy',
-    visit: 'https://skywalkeracademy.herokuapp.com/',
+    visit: 'https://adoring-roentgen-859357.netlify.app/',
     id: 1,
   },
   {
