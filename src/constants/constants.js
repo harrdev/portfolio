@@ -10,9 +10,9 @@ export const projects = [
   },
   {
     title: 'Skywalker Academy',
-    description:"Using JavaScript, Node.js, Express, EJS, and Postgres, jump into the Star Wars universe and learn about the people and planets that are a part of it.  SWAPI API used, incorporating RESTful design with full CRUD",
+    description:"Using JavaScript, Node.js, Express, React, and MongoDB, jump into the Star Wars universe and learn about the people and planets that are a part of it.  SWAPI API used, incorporating RESTful design with full CRUD",
     image: '/images/skywalker.png',
-    tags: ['JavaScript', 'Node', 'Express', 'EJS', 'Postgres'],
+    tags: ['JavaScript', 'Node', 'Express', 'React', 'MongoDB'],
     source: 'https://github.com/harrdev/Skywalker-Academy',
     visit: 'https://adoring-roentgen-859357.netlify.app/',
     id: 1,
