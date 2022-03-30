@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Telluride',
-    description: "Using JavaScript, HTML Canvas, and CSS, this is a throwback to the Microsoft Classic Ski Free.  Original sprites imported and hit those blue ramps for style points!",
+    description: "Using JavaScript, HTML Canvas, and CSS, this is a throwback to the Microsoft Classic Ski Free.  Original sprites imported and hit those blue ramps for style points! Touch support included and designed for responsiveness on all devices.",
       image: '/images/telluride.png',
       tags: ['JavaScript', 'HTML', 'Canvas', 'CSS'],
     source: 'https://github.com/harrdev/Telluride-Master',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Vinyasa Builder',
-    description: "This is a Yoga Routine building app incorporating a custom seeded database using React, JavaScript, Node.js, and MongoDB.  Utilizing npm package React Beautiful DND (drag and drop), a user can reorganize their routine with just the drag of the mouse.  RESTful designed.",
+    description: "Using React, JavaScript, Node.js, and MongoDB, create your yoga routine.  Utilizing npm package React Beautiful DND, a user can build and organize their routine with drag and drop.  Custom seeded database with over 80 poses.",
     image: '/images/vinyasa.png',
     tags: ['React', 'JavaScript', 'Node.js', 'MongoDB'],
     source: 'https://github.com/harrdev/ClientVinyasa',
