@@ -30,9 +30,9 @@ export const MainImage = styled.img`
 export const List = styled.ul`
   list-style-type: none;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
-  margin: 3rem 0;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 250px;
+  margin: 2rem 0;
   
   @media ${props => props.theme.breakpoints.lg}{
     margin: 64px 0;

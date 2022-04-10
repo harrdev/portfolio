@@ -15,8 +15,8 @@ const Technologies = () =>  (
         <DiReact size="3rem" />
         <ListContainer>
           <ListTitle>Frontend</ListTitle>
-          <ListParagraph>Experience with <br />
-          React.js, JavaScript, Python, EJS
+          <ListParagraph>Experience with: <br />
+          JavaScript, Java, Python, React.js, EJS, Thymeleaf
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -24,17 +24,8 @@ const Technologies = () =>  (
         <DiFirebase size="3rem" />
         <ListContainer>
           <ListTitle>Backend</ListTitle>
-          <ListParagraph>Experience with <br />
-          Node, Express, Postgres, MongoDB
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiZend size="3rem" />
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>Experience with <br />
-          Figma and Miro
+          <ListParagraph>Experience with: <br />
+          Node, Express, Spring Boot, MySQL, Postgres, MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
